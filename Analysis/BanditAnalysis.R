@@ -22,7 +22,7 @@ ddply(df, ~ Algorithm * Time, function(data) summary(data$Rewards))
 for (time in unique(df$Time)) {
   for (algorithm in unique(df$Algorithm)) {
     gof = shapiro.test(df[df$Algorithm == algorithm & df$Time == time,]$Rewards)
-    cat("Algorithm:", algorithm, ",Time:", time, ",p-value:", gof$p.value, "\n")
+    cat("Algorithm:", algorithm, ",Time:", time, "Statistic:", gof$statistic, ",p-value:", gof$p.value, "\n")
   }
 }
 
