@@ -22,6 +22,8 @@ plot(Rewards ~ Algorithm, data = df)
 hist(df[df$Algorithm == 'Epsilon Greedy' & df$Time == 600,]$Rewards, breaks = 15)
 hist(df[df$Algorithm == 'UCB' & df$Time == 600,]$Rewards, breaks = 15)
 hist(df[df$Algorithm == 'Thompson Sampling' & df$Time == 600,]$Rewards, breaks = 15)
+# Interaction between Time and Algorithm
+with(df, interaction.plot(Time, Algorithm, Rewards, ylim=c(0, max(df$Rewards))))
 
 # Shapiro-Wilk Test for normality
 for (time in unique(df$Time)) {
