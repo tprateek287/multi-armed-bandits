@@ -499,1003 +499,1003 @@ Simulation,Time,Algorithm,Cumulative Reward
 100,600,Epsilon Greedy,528
 100,800,Epsilon Greedy,695
 100,1000,Epsilon Greedy,870
-1,200,UCB,165
-1,400,UCB,346
-1,600,UCB,517
-1,800,UCB,701
-1,1000,UCB,876
-2,200,UCB,174
-2,400,UCB,353
-2,600,UCB,528
-2,800,UCB,710
-2,1000,UCB,898
-3,200,UCB,168
-3,400,UCB,341
-3,600,UCB,526
-3,800,UCB,713
-3,1000,UCB,890
-4,200,UCB,174
-4,400,UCB,355
-4,600,UCB,526
-4,800,UCB,706
-4,1000,UCB,882
-5,200,UCB,175
-5,400,UCB,348
-5,600,UCB,523
-5,800,UCB,704
-5,1000,UCB,883
-6,200,UCB,170
-6,400,UCB,351
-6,600,UCB,529
-6,800,UCB,714
-6,1000,UCB,903
-7,200,UCB,172
-7,400,UCB,349
-7,600,UCB,525
-7,800,UCB,705
-7,1000,UCB,886
-8,200,UCB,175
-8,400,UCB,355
-8,600,UCB,528
-8,800,UCB,709
-8,1000,UCB,884
-9,200,UCB,176
-9,400,UCB,356
-9,600,UCB,528
-9,800,UCB,710
-9,1000,UCB,891
-10,200,UCB,178
-10,400,UCB,353
-10,600,UCB,528
-10,800,UCB,700
-10,1000,UCB,879
-11,200,UCB,176
-11,400,UCB,354
-11,600,UCB,534
-11,800,UCB,715
-11,1000,UCB,891
-12,200,UCB,164
-12,400,UCB,335
-12,600,UCB,519
-12,800,UCB,697
-12,1000,UCB,877
-13,200,UCB,172
-13,400,UCB,351
-13,600,UCB,537
-13,800,UCB,716
-13,1000,UCB,894
-14,200,UCB,160
-14,400,UCB,340
-14,600,UCB,519
-14,800,UCB,691
-14,1000,UCB,865
-15,200,UCB,168
-15,400,UCB,347
-15,600,UCB,521
-15,800,UCB,708
-15,1000,UCB,892
-16,200,UCB,182
-16,400,UCB,359
-16,600,UCB,536
-16,800,UCB,721
-16,1000,UCB,904
-17,200,UCB,168
-17,400,UCB,347
-17,600,UCB,523
-17,800,UCB,701
-17,1000,UCB,884
-18,200,UCB,177
-18,400,UCB,352
-18,600,UCB,527
-18,800,UCB,703
-18,1000,UCB,882
-19,200,UCB,163
-19,400,UCB,340
-19,600,UCB,515
-19,800,UCB,693
-19,1000,UCB,873
-20,200,UCB,172
-20,400,UCB,349
-20,600,UCB,534
-20,800,UCB,716
-20,1000,UCB,897
-21,200,UCB,165
-21,400,UCB,341
-21,600,UCB,520
-21,800,UCB,696
-21,1000,UCB,870
-22,200,UCB,176
-22,400,UCB,356
-22,600,UCB,534
-22,800,UCB,712
-22,1000,UCB,893
-23,200,UCB,174
-23,400,UCB,353
-23,600,UCB,528
-23,800,UCB,715
-23,1000,UCB,902
-24,200,UCB,163
-24,400,UCB,343
-24,600,UCB,518
-24,800,UCB,688
-24,1000,UCB,867
-25,200,UCB,175
-25,400,UCB,350
-25,600,UCB,534
-25,800,UCB,716
-25,1000,UCB,899
-26,200,UCB,168
-26,400,UCB,338
-26,600,UCB,521
-26,800,UCB,697
-26,1000,UCB,879
-27,200,UCB,174
-27,400,UCB,348
-27,600,UCB,524
-27,800,UCB,696
-27,1000,UCB,873
-28,200,UCB,173
-28,400,UCB,344
-28,600,UCB,513
-28,800,UCB,695
-28,1000,UCB,873
-29,200,UCB,173
-29,400,UCB,345
-29,600,UCB,521
-29,800,UCB,701
-29,1000,UCB,881
-30,200,UCB,175
-30,400,UCB,350
-30,600,UCB,535
-30,800,UCB,711
-30,1000,UCB,889
-31,200,UCB,168
-31,400,UCB,345
-31,600,UCB,521
-31,800,UCB,700
-31,1000,UCB,878
-32,200,UCB,177
-32,400,UCB,357
-32,600,UCB,536
-32,800,UCB,712
-32,1000,UCB,893
-33,200,UCB,173
-33,400,UCB,354
-33,600,UCB,530
-33,800,UCB,713
-33,1000,UCB,886
-34,200,UCB,168
-34,400,UCB,348
-34,600,UCB,530
-34,800,UCB,715
-34,1000,UCB,899
-35,200,UCB,164
-35,400,UCB,336
-35,600,UCB,510
-35,800,UCB,692
-35,1000,UCB,876
-36,200,UCB,169
-36,400,UCB,353
-36,600,UCB,535
-36,800,UCB,714
-36,1000,UCB,898
-37,200,UCB,173
-37,400,UCB,358
-37,600,UCB,538
-37,800,UCB,714
-37,1000,UCB,892
-38,200,UCB,181
-38,400,UCB,354
-38,600,UCB,526
-38,800,UCB,702
-38,1000,UCB,887
-39,200,UCB,173
-39,400,UCB,355
-39,600,UCB,528
-39,800,UCB,704
-39,1000,UCB,877
-40,200,UCB,163
-40,400,UCB,341
-40,600,UCB,518
-40,800,UCB,701
-40,1000,UCB,881
-41,200,UCB,168
-41,400,UCB,350
-41,600,UCB,527
-41,800,UCB,699
-41,1000,UCB,883
-42,200,UCB,171
-42,400,UCB,356
-42,600,UCB,535
-42,800,UCB,713
-42,1000,UCB,898
-43,200,UCB,176
-43,400,UCB,346
-43,600,UCB,521
-43,800,UCB,698
-43,1000,UCB,879
-44,200,UCB,162
-44,400,UCB,332
-44,600,UCB,506
-44,800,UCB,685
-44,1000,UCB,859
-45,200,UCB,169
-45,400,UCB,353
-45,600,UCB,533
-45,800,UCB,715
-45,1000,UCB,893
-46,200,UCB,166
-46,400,UCB,340
-46,600,UCB,520
-46,800,UCB,700
-46,1000,UCB,882
-47,200,UCB,173
-47,400,UCB,350
-47,600,UCB,532
-47,800,UCB,710
-47,1000,UCB,890
-48,200,UCB,177
-48,400,UCB,353
-48,600,UCB,530
-48,800,UCB,716
-48,1000,UCB,892
-49,200,UCB,167
-49,400,UCB,346
-49,600,UCB,531
-49,800,UCB,709
-49,1000,UCB,892
-50,200,UCB,179
-50,400,UCB,348
-50,600,UCB,523
-50,800,UCB,701
-50,1000,UCB,875
-51,200,UCB,169
-51,400,UCB,351
-51,600,UCB,536
-51,800,UCB,720
-51,1000,UCB,896
-52,200,UCB,174
-52,400,UCB,357
-52,600,UCB,534
-52,800,UCB,713
-52,1000,UCB,894
-53,200,UCB,173
-53,400,UCB,345
-53,600,UCB,522
-53,800,UCB,705
-53,1000,UCB,889
-54,200,UCB,182
-54,400,UCB,362
-54,600,UCB,536
-54,800,UCB,719
-54,1000,UCB,888
-55,200,UCB,174
-55,400,UCB,349
-55,600,UCB,527
-55,800,UCB,713
-55,1000,UCB,892
-56,200,UCB,173
-56,400,UCB,342
-56,600,UCB,523
-56,800,UCB,705
-56,1000,UCB,891
-57,200,UCB,173
-57,400,UCB,341
-57,600,UCB,516
-57,800,UCB,691
-57,1000,UCB,874
-58,200,UCB,170
-58,400,UCB,349
-58,600,UCB,523
-58,800,UCB,699
-58,1000,UCB,876
-59,200,UCB,170
-59,400,UCB,350
-59,600,UCB,525
-59,800,UCB,704
-59,1000,UCB,890
-60,200,UCB,175
-60,400,UCB,353
-60,600,UCB,532
-60,800,UCB,709
-60,1000,UCB,896
-61,200,UCB,178
-61,400,UCB,362
-61,600,UCB,543
-61,800,UCB,719
-61,1000,UCB,897
-62,200,UCB,171
-62,400,UCB,349
-62,600,UCB,525
-62,800,UCB,696
-62,1000,UCB,869
-63,200,UCB,176
-63,400,UCB,349
-63,600,UCB,525
-63,800,UCB,706
-63,1000,UCB,888
-64,200,UCB,174
-64,400,UCB,357
-64,600,UCB,534
-64,800,UCB,710
-64,1000,UCB,892
-65,200,UCB,165
-65,400,UCB,343
-65,600,UCB,527
-65,800,UCB,700
-65,1000,UCB,882
-66,200,UCB,170
-66,400,UCB,346
-66,600,UCB,528
-66,800,UCB,705
-66,1000,UCB,877
-67,200,UCB,170
-67,400,UCB,354
-67,600,UCB,534
-67,800,UCB,710
-67,1000,UCB,889
-68,200,UCB,171
-68,400,UCB,344
-68,600,UCB,525
-68,800,UCB,704
-68,1000,UCB,885
-69,200,UCB,180
-69,400,UCB,358
-69,600,UCB,541
-69,800,UCB,722
-69,1000,UCB,889
-70,200,UCB,177
-70,400,UCB,358
-70,600,UCB,533
-70,800,UCB,713
-70,1000,UCB,895
-71,200,UCB,172
-71,400,UCB,355
-71,600,UCB,535
-71,800,UCB,720
-71,1000,UCB,900
-72,200,UCB,168
-72,400,UCB,343
-72,600,UCB,515
-72,800,UCB,695
-72,1000,UCB,874
-73,200,UCB,173
-73,400,UCB,345
-73,600,UCB,521
-73,800,UCB,705
-73,1000,UCB,882
-74,200,UCB,172
-74,400,UCB,348
-74,600,UCB,528
-74,800,UCB,710
-74,1000,UCB,888
-75,200,UCB,173
-75,400,UCB,354
-75,600,UCB,531
-75,800,UCB,712
-75,1000,UCB,893
-76,200,UCB,172
-76,400,UCB,346
-76,600,UCB,524
-76,800,UCB,704
-76,1000,UCB,887
-77,200,UCB,175
-77,400,UCB,360
-77,600,UCB,532
-77,800,UCB,712
-77,1000,UCB,887
-78,200,UCB,174
-78,400,UCB,353
-78,600,UCB,535
-78,800,UCB,705
-78,1000,UCB,881
-79,200,UCB,171
-79,400,UCB,347
-79,600,UCB,530
-79,800,UCB,707
-79,1000,UCB,887
-80,200,UCB,175
-80,400,UCB,348
-80,600,UCB,528
-80,800,UCB,698
-80,1000,UCB,872
-81,200,UCB,174
-81,400,UCB,361
-81,600,UCB,540
-81,800,UCB,720
-81,1000,UCB,892
-82,200,UCB,173
-82,400,UCB,356
-82,600,UCB,536
-82,800,UCB,717
-82,1000,UCB,894
-83,200,UCB,174
-83,400,UCB,347
-83,600,UCB,526
-83,800,UCB,700
-83,1000,UCB,871
-84,200,UCB,174
-84,400,UCB,348
-84,600,UCB,528
-84,800,UCB,706
-84,1000,UCB,878
-85,200,UCB,180
-85,400,UCB,360
-85,600,UCB,539
-85,800,UCB,716
-85,1000,UCB,899
-86,200,UCB,173
-86,400,UCB,353
-86,600,UCB,531
-86,800,UCB,711
-86,1000,UCB,898
-87,200,UCB,172
-87,400,UCB,354
-87,600,UCB,536
-87,800,UCB,715
-87,1000,UCB,890
-88,200,UCB,181
-88,400,UCB,357
-88,600,UCB,539
-88,800,UCB,719
-88,1000,UCB,901
-89,200,UCB,168
-89,400,UCB,350
-89,600,UCB,530
-89,800,UCB,712
-89,1000,UCB,899
-90,200,UCB,174
-90,400,UCB,353
-90,600,UCB,528
-90,800,UCB,715
-90,1000,UCB,902
-91,200,UCB,179
-91,400,UCB,360
-91,600,UCB,544
-91,800,UCB,717
-91,1000,UCB,892
-92,200,UCB,170
-92,400,UCB,347
-92,600,UCB,531
-92,800,UCB,711
-92,1000,UCB,897
-93,200,UCB,165
-93,400,UCB,344
-93,600,UCB,526
-93,800,UCB,706
-93,1000,UCB,888
-94,200,UCB,176
-94,400,UCB,349
-94,600,UCB,528
-94,800,UCB,712
-94,1000,UCB,896
-95,200,UCB,184
-95,400,UCB,365
-95,600,UCB,544
-95,800,UCB,732
-95,1000,UCB,915
-96,200,UCB,177
-96,400,UCB,351
-96,600,UCB,530
-96,800,UCB,714
-96,1000,UCB,891
-97,200,UCB,169
-97,400,UCB,347
-97,600,UCB,529
-97,800,UCB,704
-97,1000,UCB,886
-98,200,UCB,174
-98,400,UCB,348
-98,600,UCB,530
-98,800,UCB,709
-98,1000,UCB,884
-99,200,UCB,173
-99,400,UCB,346
-99,600,UCB,534
-99,800,UCB,712
-99,1000,UCB,889
-100,200,UCB,166
-100,400,UCB,343
-100,600,UCB,518
-100,800,UCB,701
-100,1000,UCB,876
-1,200,Thompson Sampling,170
-1,400,Thompson Sampling,353
-1,600,Thompson Sampling,526
-1,800,Thompson Sampling,709
-1,1000,Thompson Sampling,885
-2,200,Thompson Sampling,180
-2,400,Thompson Sampling,360
-2,600,Thompson Sampling,537
-2,800,Thompson Sampling,720
-2,1000,Thompson Sampling,908
-3,200,Thompson Sampling,175
-3,400,Thompson Sampling,352
-3,600,Thompson Sampling,538
-3,800,Thompson Sampling,725
-3,1000,Thompson Sampling,903
-4,200,Thompson Sampling,180
-4,400,Thompson Sampling,362
-4,600,Thompson Sampling,535
-4,800,Thompson Sampling,717
-4,1000,Thompson Sampling,894
-5,200,Thompson Sampling,182
-5,400,Thompson Sampling,357
-5,600,Thompson Sampling,534
-5,800,Thompson Sampling,716
-5,1000,Thompson Sampling,896
-6,200,Thompson Sampling,177
-6,400,Thompson Sampling,359
-6,600,Thompson Sampling,539
-6,800,Thompson Sampling,725
-6,1000,Thompson Sampling,914
-7,200,Thompson Sampling,178
-7,400,Thompson Sampling,357
-7,600,Thompson Sampling,533
-7,800,Thompson Sampling,715
-7,1000,Thompson Sampling,897
-8,200,Thompson Sampling,182
-8,400,Thompson Sampling,363
-8,600,Thompson Sampling,537
-8,800,Thompson Sampling,719
-8,1000,Thompson Sampling,894
-9,200,Thompson Sampling,182
-9,400,Thompson Sampling,364
-9,600,Thompson Sampling,538
-9,800,Thompson Sampling,721
-9,1000,Thompson Sampling,902
-10,200,Thompson Sampling,184
-10,400,Thompson Sampling,361
-10,600,Thompson Sampling,538
-10,800,Thompson Sampling,712
-10,1000,Thompson Sampling,891
-11,200,Thompson Sampling,183
-11,400,Thompson Sampling,365
-11,600,Thompson Sampling,545
-11,800,Thompson Sampling,727
-11,1000,Thompson Sampling,904
-12,200,Thompson Sampling,173
-12,400,Thompson Sampling,346
-12,600,Thompson Sampling,531
-12,800,Thompson Sampling,709
-12,1000,Thompson Sampling,890
-13,200,Thompson Sampling,176
-13,400,Thompson Sampling,356
-13,600,Thompson Sampling,542
-13,800,Thompson Sampling,722
-13,1000,Thompson Sampling,901
-14,200,Thompson Sampling,166
-14,400,Thompson Sampling,349
-14,600,Thompson Sampling,529
-14,800,Thompson Sampling,702
-14,1000,Thompson Sampling,877
-15,200,Thompson Sampling,176
-15,400,Thompson Sampling,357
-15,600,Thompson Sampling,533
-15,800,Thompson Sampling,720
-15,1000,Thompson Sampling,905
-16,200,Thompson Sampling,187
-16,400,Thompson Sampling,366
-16,600,Thompson Sampling,545
-16,800,Thompson Sampling,731
-16,1000,Thompson Sampling,914
-17,200,Thompson Sampling,173
-17,400,Thompson Sampling,354
-17,600,Thompson Sampling,531
-17,800,Thompson Sampling,710
-17,1000,Thompson Sampling,893
-18,200,Thompson Sampling,181
-18,400,Thompson Sampling,359
-18,600,Thompson Sampling,535
-18,800,Thompson Sampling,712
-18,1000,Thompson Sampling,892
-19,200,Thompson Sampling,171
-19,400,Thompson Sampling,349
-19,600,Thompson Sampling,526
-19,800,Thompson Sampling,705
-19,1000,Thompson Sampling,886
-20,200,Thompson Sampling,180
-20,400,Thompson Sampling,359
-20,600,Thompson Sampling,545
-20,800,Thompson Sampling,728
-20,1000,Thompson Sampling,909
-21,200,Thompson Sampling,173
-21,400,Thompson Sampling,352
-21,600,Thompson Sampling,531
-21,800,Thompson Sampling,708
-21,1000,Thompson Sampling,883
-22,200,Thompson Sampling,180
-22,400,Thompson Sampling,361
-22,600,Thompson Sampling,540
-22,800,Thompson Sampling,720
-22,1000,Thompson Sampling,901
-23,200,Thompson Sampling,177
-23,400,Thompson Sampling,358
-23,600,Thompson Sampling,536
-23,800,Thompson Sampling,722
-23,1000,Thompson Sampling,910
-24,200,Thompson Sampling,170
-24,400,Thompson Sampling,351
-24,600,Thompson Sampling,527
-24,800,Thompson Sampling,697
-24,1000,Thompson Sampling,875
-25,200,Thompson Sampling,180
-25,400,Thompson Sampling,358
-25,600,Thompson Sampling,543
-25,800,Thompson Sampling,726
-25,1000,Thompson Sampling,910
-26,200,Thompson Sampling,174
-26,400,Thompson Sampling,346
-26,600,Thompson Sampling,530
-26,800,Thompson Sampling,707
-26,1000,Thompson Sampling,890
-27,200,Thompson Sampling,180
-27,400,Thompson Sampling,356
-27,600,Thompson Sampling,533
-27,800,Thompson Sampling,706
-27,1000,Thompson Sampling,884
-28,200,Thompson Sampling,180
-28,400,Thompson Sampling,353
-28,600,Thompson Sampling,522
-28,800,Thompson Sampling,705
-28,1000,Thompson Sampling,884
-29,200,Thompson Sampling,180
-29,400,Thompson Sampling,355
-29,600,Thompson Sampling,532
-29,800,Thompson Sampling,713
-29,1000,Thompson Sampling,894
-30,200,Thompson Sampling,182
-30,400,Thompson Sampling,360
-30,600,Thompson Sampling,546
-30,800,Thompson Sampling,723
-30,1000,Thompson Sampling,902
-31,200,Thompson Sampling,174
-31,400,Thompson Sampling,353
-31,600,Thompson Sampling,530
-31,800,Thompson Sampling,710
-31,1000,Thompson Sampling,889
-32,200,Thompson Sampling,181
-32,400,Thompson Sampling,361
-32,600,Thompson Sampling,541
-32,800,Thompson Sampling,718
-32,1000,Thompson Sampling,900
-33,200,Thompson Sampling,180
-33,400,Thompson Sampling,364
-33,600,Thompson Sampling,542
-33,800,Thompson Sampling,725
-33,1000,Thompson Sampling,899
-34,200,Thompson Sampling,177
-34,400,Thompson Sampling,358
-34,600,Thompson Sampling,542
-34,800,Thompson Sampling,727
-34,1000,Thompson Sampling,912
-35,200,Thompson Sampling,171
-35,400,Thompson Sampling,347
-35,600,Thompson Sampling,522
-35,800,Thompson Sampling,705
-35,1000,Thompson Sampling,889
-36,200,Thompson Sampling,177
-36,400,Thompson Sampling,362
-36,600,Thompson Sampling,546
-36,800,Thompson Sampling,725
-36,1000,Thompson Sampling,909
-37,200,Thompson Sampling,181
-37,400,Thompson Sampling,367
-37,600,Thompson Sampling,549
-37,800,Thompson Sampling,725
-37,1000,Thompson Sampling,904
-38,200,Thompson Sampling,187
-38,400,Thompson Sampling,362
-38,600,Thompson Sampling,535
-38,800,Thompson Sampling,712
-38,1000,Thompson Sampling,898
-39,200,Thompson Sampling,181
-39,400,Thompson Sampling,365
-39,600,Thompson Sampling,539
-39,800,Thompson Sampling,716
-39,1000,Thompson Sampling,890
-40,200,Thompson Sampling,170
-40,400,Thompson Sampling,349
-40,600,Thompson Sampling,527
-40,800,Thompson Sampling,711
-40,1000,Thompson Sampling,892
-41,200,Thompson Sampling,175
-41,400,Thompson Sampling,360
-41,600,Thompson Sampling,537
-41,800,Thompson Sampling,710
-41,1000,Thompson Sampling,894
-42,200,Thompson Sampling,178
-42,400,Thompson Sampling,364
-42,600,Thompson Sampling,544
-42,800,Thompson Sampling,723
-42,1000,Thompson Sampling,908
-43,200,Thompson Sampling,179
-43,400,Thompson Sampling,352
-43,600,Thompson Sampling,528
-43,800,Thompson Sampling,706
-43,1000,Thompson Sampling,888
-44,200,Thompson Sampling,166
-44,400,Thompson Sampling,339
-44,600,Thompson Sampling,514
-44,800,Thompson Sampling,694
-44,1000,Thompson Sampling,868
-45,200,Thompson Sampling,174
-45,400,Thompson Sampling,360
-45,600,Thompson Sampling,540
-45,800,Thompson Sampling,723
-45,1000,Thompson Sampling,902
-46,200,Thompson Sampling,172
-46,400,Thompson Sampling,348
-46,600,Thompson Sampling,529
-46,800,Thompson Sampling,709
-46,1000,Thompson Sampling,892
-47,200,Thompson Sampling,177
-47,400,Thompson Sampling,356
-47,600,Thompson Sampling,539
-47,800,Thompson Sampling,717
-47,1000,Thompson Sampling,898
-48,200,Thompson Sampling,181
-48,400,Thompson Sampling,360
-48,600,Thompson Sampling,539
-48,800,Thompson Sampling,726
-48,1000,Thompson Sampling,903
-49,200,Thompson Sampling,173
-49,400,Thompson Sampling,354
-49,600,Thompson Sampling,540
-49,800,Thompson Sampling,719
-49,1000,Thompson Sampling,903
-50,200,Thompson Sampling,185
-50,400,Thompson Sampling,357
-50,600,Thompson Sampling,534
-50,800,Thompson Sampling,712
-50,1000,Thompson Sampling,886
-51,200,Thompson Sampling,172
-51,400,Thompson Sampling,354
-51,600,Thompson Sampling,540
-51,800,Thompson Sampling,724
-51,1000,Thompson Sampling,901
-52,200,Thompson Sampling,180
-52,400,Thompson Sampling,365
-52,600,Thompson Sampling,543
-52,800,Thompson Sampling,723
-52,1000,Thompson Sampling,905
-53,200,Thompson Sampling,180
-53,400,Thompson Sampling,354
-53,600,Thompson Sampling,531
-53,800,Thompson Sampling,714
-53,1000,Thompson Sampling,898
-54,200,Thompson Sampling,187
-54,400,Thompson Sampling,369
-54,600,Thompson Sampling,545
-54,800,Thompson Sampling,728
-54,1000,Thompson Sampling,898
-55,200,Thompson Sampling,182
-55,400,Thompson Sampling,360
-55,600,Thompson Sampling,539
-55,800,Thompson Sampling,726
-55,1000,Thompson Sampling,906
-56,200,Thompson Sampling,179
-56,400,Thompson Sampling,350
-56,600,Thompson Sampling,532
-56,800,Thompson Sampling,715
-56,1000,Thompson Sampling,901
-57,200,Thompson Sampling,181
-57,400,Thompson Sampling,351
-57,600,Thompson Sampling,526
-57,800,Thompson Sampling,702
-57,1000,Thompson Sampling,886
-58,200,Thompson Sampling,176
-58,400,Thompson Sampling,357
-58,600,Thompson Sampling,532
-58,800,Thompson Sampling,709
-58,1000,Thompson Sampling,887
-59,200,Thompson Sampling,174
-59,400,Thompson Sampling,357
-59,600,Thompson Sampling,533
-59,800,Thompson Sampling,713
-59,1000,Thompson Sampling,900
-60,200,Thompson Sampling,179
-60,400,Thompson Sampling,358
-60,600,Thompson Sampling,539
-60,800,Thompson Sampling,717
-60,1000,Thompson Sampling,904
-61,200,Thompson Sampling,183
-61,400,Thompson Sampling,369
-61,600,Thompson Sampling,552
-61,800,Thompson Sampling,728
-61,1000,Thompson Sampling,907
-62,200,Thompson Sampling,176
-62,400,Thompson Sampling,355
-62,600,Thompson Sampling,533
-62,800,Thompson Sampling,706
-62,1000,Thompson Sampling,880
-63,200,Thompson Sampling,182
-63,400,Thompson Sampling,359
-63,600,Thompson Sampling,536
-63,800,Thompson Sampling,717
-63,1000,Thompson Sampling,899
-64,200,Thompson Sampling,179
-64,400,Thompson Sampling,364
-64,600,Thompson Sampling,541
-64,800,Thompson Sampling,718
-64,1000,Thompson Sampling,901
-65,200,Thompson Sampling,172
-65,400,Thompson Sampling,351
-65,600,Thompson Sampling,536
-65,800,Thompson Sampling,710
-65,1000,Thompson Sampling,893
-66,200,Thompson Sampling,178
-66,400,Thompson Sampling,356
-66,600,Thompson Sampling,539
-66,800,Thompson Sampling,717
-66,1000,Thompson Sampling,890
-67,200,Thompson Sampling,174
-67,400,Thompson Sampling,360
-67,600,Thompson Sampling,541
-67,800,Thompson Sampling,719
-67,1000,Thompson Sampling,899
-68,200,Thompson Sampling,178
-68,400,Thompson Sampling,354
-68,600,Thompson Sampling,536
-68,800,Thompson Sampling,716
-68,1000,Thompson Sampling,898
-69,200,Thompson Sampling,186
-69,400,Thompson Sampling,365
-69,600,Thompson Sampling,549
-69,800,Thompson Sampling,731
-69,1000,Thompson Sampling,900
-70,200,Thompson Sampling,184
-70,400,Thompson Sampling,367
-70,600,Thompson Sampling,544
-70,800,Thompson Sampling,725
-70,1000,Thompson Sampling,908
-71,200,Thompson Sampling,178
-71,400,Thompson Sampling,363
-71,600,Thompson Sampling,544
-71,800,Thompson Sampling,731
-71,1000,Thompson Sampling,912
-72,200,Thompson Sampling,173
-72,400,Thompson Sampling,351
-72,600,Thompson Sampling,523
-72,800,Thompson Sampling,704
-72,1000,Thompson Sampling,884
-73,200,Thompson Sampling,181
-73,400,Thompson Sampling,355
-73,600,Thompson Sampling,533
-73,800,Thompson Sampling,718
-73,1000,Thompson Sampling,895
-74,200,Thompson Sampling,179
-74,400,Thompson Sampling,356
-74,600,Thompson Sampling,537
-74,800,Thompson Sampling,719
-74,1000,Thompson Sampling,898
-75,200,Thompson Sampling,179
-75,400,Thompson Sampling,362
-75,600,Thompson Sampling,540
-75,800,Thompson Sampling,722
-75,1000,Thompson Sampling,904
-76,200,Thompson Sampling,179
-76,400,Thompson Sampling,357
-76,600,Thompson Sampling,537
-76,800,Thompson Sampling,718
-76,1000,Thompson Sampling,900
-77,200,Thompson Sampling,183
-77,400,Thompson Sampling,370
-77,600,Thompson Sampling,544
-77,800,Thompson Sampling,726
-77,1000,Thompson Sampling,902
-78,200,Thompson Sampling,181
-78,400,Thompson Sampling,362
-78,600,Thompson Sampling,544
-78,800,Thompson Sampling,715
-78,1000,Thompson Sampling,892
-79,200,Thompson Sampling,177
-79,400,Thompson Sampling,355
-79,600,Thompson Sampling,540
-79,800,Thompson Sampling,718
-79,1000,Thompson Sampling,899
-80,200,Thompson Sampling,182
-80,400,Thompson Sampling,358
-80,600,Thompson Sampling,539
-80,800,Thompson Sampling,709
-80,1000,Thompson Sampling,884
-81,200,Thompson Sampling,181
-81,400,Thompson Sampling,370
-81,600,Thompson Sampling,550
-81,800,Thompson Sampling,730
-81,1000,Thompson Sampling,903
-82,200,Thompson Sampling,178
-82,400,Thompson Sampling,363
-82,600,Thompson Sampling,544
-82,800,Thompson Sampling,726
-82,1000,Thompson Sampling,904
-83,200,Thompson Sampling,179
-83,400,Thompson Sampling,354
-83,600,Thompson Sampling,533
-83,800,Thompson Sampling,708
-83,1000,Thompson Sampling,880
-84,200,Thompson Sampling,180
-84,400,Thompson Sampling,355
-84,600,Thompson Sampling,536
-84,800,Thompson Sampling,716
-84,1000,Thompson Sampling,888
-85,200,Thompson Sampling,181
-85,400,Thompson Sampling,362
-85,600,Thompson Sampling,543
-85,800,Thompson Sampling,721
-85,1000,Thompson Sampling,905
-86,200,Thompson Sampling,180
-86,400,Thompson Sampling,361
-86,600,Thompson Sampling,540
-86,800,Thompson Sampling,721
-86,1000,Thompson Sampling,908
-87,200,Thompson Sampling,177
-87,400,Thompson Sampling,361
-87,600,Thompson Sampling,545
-87,800,Thompson Sampling,725
-87,1000,Thompson Sampling,901
-88,200,Thompson Sampling,187
-88,400,Thompson Sampling,365
-88,600,Thompson Sampling,548
-88,800,Thompson Sampling,729
-88,1000,Thompson Sampling,910
-89,200,Thompson Sampling,174
-89,400,Thompson Sampling,357
-89,600,Thompson Sampling,538
-89,800,Thompson Sampling,721
-89,1000,Thompson Sampling,908
-90,200,Thompson Sampling,182
-90,400,Thompson Sampling,364
-90,600,Thompson Sampling,540
-90,800,Thompson Sampling,727
-90,1000,Thompson Sampling,915
-91,200,Thompson Sampling,182
-91,400,Thompson Sampling,365
-91,600,Thompson Sampling,550
-91,800,Thompson Sampling,724
-91,1000,Thompson Sampling,900
-92,200,Thompson Sampling,176
-92,400,Thompson Sampling,355
-92,600,Thompson Sampling,541
-92,800,Thompson Sampling,722
-92,1000,Thompson Sampling,908
-93,200,Thompson Sampling,170
-93,400,Thompson Sampling,353
-93,600,Thompson Sampling,536
-93,800,Thompson Sampling,716
-93,1000,Thompson Sampling,898
-94,200,Thompson Sampling,182
-94,400,Thompson Sampling,357
-94,600,Thompson Sampling,537
-94,800,Thompson Sampling,721
-94,1000,Thompson Sampling,905
-95,200,Thompson Sampling,191
-95,400,Thompson Sampling,373
-95,600,Thompson Sampling,554
-95,800,Thompson Sampling,742
-95,1000,Thompson Sampling,926
-96,200,Thompson Sampling,180
-96,400,Thompson Sampling,357
-96,600,Thompson Sampling,538
-96,800,Thompson Sampling,723
-96,1000,Thompson Sampling,901
-97,200,Thompson Sampling,175
-97,400,Thompson Sampling,354
-97,600,Thompson Sampling,538
-97,800,Thompson Sampling,714
-97,1000,Thompson Sampling,897
-98,200,Thompson Sampling,180
-98,400,Thompson Sampling,357
-98,600,Thompson Sampling,540
-98,800,Thompson Sampling,720
-98,1000,Thompson Sampling,896
-99,200,Thompson Sampling,180
-99,400,Thompson Sampling,356
-99,600,Thompson Sampling,546
-99,800,Thompson Sampling,725
-99,1000,Thompson Sampling,903
-100,200,Thompson Sampling,171
-100,400,Thompson Sampling,350
-100,600,Thompson Sampling,527
-100,800,Thompson Sampling,711
-100,1000,Thompson Sampling,887
+101,200,UCB,165
+101,400,UCB,346
+101,600,UCB,517
+101,800,UCB,701
+101,1000,UCB,876
+102,200,UCB,174
+102,400,UCB,353
+102,600,UCB,528
+102,800,UCB,710
+102,1000,UCB,898
+103,200,UCB,168
+103,400,UCB,341
+103,600,UCB,526
+103,800,UCB,713
+103,1000,UCB,890
+104,200,UCB,174
+104,400,UCB,355
+104,600,UCB,526
+104,800,UCB,706
+104,1000,UCB,882
+105,200,UCB,175
+105,400,UCB,348
+105,600,UCB,523
+105,800,UCB,704
+105,1000,UCB,883
+106,200,UCB,170
+106,400,UCB,351
+106,600,UCB,529
+106,800,UCB,714
+106,1000,UCB,903
+107,200,UCB,172
+107,400,UCB,349
+107,600,UCB,525
+107,800,UCB,705
+107,1000,UCB,886
+108,200,UCB,175
+108,400,UCB,355
+108,600,UCB,528
+108,800,UCB,709
+108,1000,UCB,884
+109,200,UCB,176
+109,400,UCB,356
+109,600,UCB,528
+109,800,UCB,710
+109,1000,UCB,891
+110,200,UCB,178
+110,400,UCB,353
+110,600,UCB,528
+110,800,UCB,700
+110,1000,UCB,879
+111,200,UCB,176
+111,400,UCB,354
+111,600,UCB,534
+111,800,UCB,715
+111,1000,UCB,891
+112,200,UCB,164
+112,400,UCB,335
+112,600,UCB,519
+112,800,UCB,697
+112,1000,UCB,877
+113,200,UCB,172
+113,400,UCB,351
+113,600,UCB,537
+113,800,UCB,716
+113,1000,UCB,894
+114,200,UCB,160
+114,400,UCB,340
+114,600,UCB,519
+114,800,UCB,691
+114,1000,UCB,865
+115,200,UCB,168
+115,400,UCB,347
+115,600,UCB,521
+115,800,UCB,708
+115,1000,UCB,892
+116,200,UCB,182
+116,400,UCB,359
+116,600,UCB,536
+116,800,UCB,721
+116,1000,UCB,904
+117,200,UCB,168
+117,400,UCB,347
+117,600,UCB,523
+117,800,UCB,701
+117,1000,UCB,884
+118,200,UCB,177
+118,400,UCB,352
+118,600,UCB,527
+118,800,UCB,703
+118,1000,UCB,882
+119,200,UCB,163
+119,400,UCB,340
+119,600,UCB,515
+119,800,UCB,693
+119,1000,UCB,873
+120,200,UCB,172
+120,400,UCB,349
+120,600,UCB,534
+120,800,UCB,716
+120,1000,UCB,897
+121,200,UCB,165
+121,400,UCB,341
+121,600,UCB,520
+121,800,UCB,696
+121,1000,UCB,870
+122,200,UCB,176
+122,400,UCB,356
+122,600,UCB,534
+122,800,UCB,712
+122,1000,UCB,893
+123,200,UCB,174
+123,400,UCB,353
+123,600,UCB,528
+123,800,UCB,715
+123,1000,UCB,902
+124,200,UCB,163
+124,400,UCB,343
+124,600,UCB,518
+124,800,UCB,688
+124,1000,UCB,867
+125,200,UCB,175
+125,400,UCB,350
+125,600,UCB,534
+125,800,UCB,716
+125,1000,UCB,899
+126,200,UCB,168
+126,400,UCB,338
+126,600,UCB,521
+126,800,UCB,697
+126,1000,UCB,879
+127,200,UCB,174
+127,400,UCB,348
+127,600,UCB,524
+127,800,UCB,696
+127,1000,UCB,873
+128,200,UCB,173
+128,400,UCB,344
+128,600,UCB,513
+128,800,UCB,695
+128,1000,UCB,873
+129,200,UCB,173
+129,400,UCB,345
+129,600,UCB,521
+129,800,UCB,701
+129,1000,UCB,881
+130,200,UCB,175
+130,400,UCB,350
+130,600,UCB,535
+130,800,UCB,711
+130,1000,UCB,889
+131,200,UCB,168
+131,400,UCB,345
+131,600,UCB,521
+131,800,UCB,700
+131,1000,UCB,878
+132,200,UCB,177
+132,400,UCB,357
+132,600,UCB,536
+132,800,UCB,712
+132,1000,UCB,893
+133,200,UCB,173
+133,400,UCB,354
+133,600,UCB,530
+133,800,UCB,713
+133,1000,UCB,886
+134,200,UCB,168
+134,400,UCB,348
+134,600,UCB,530
+134,800,UCB,715
+134,1000,UCB,899
+135,200,UCB,164
+135,400,UCB,336
+135,600,UCB,510
+135,800,UCB,692
+135,1000,UCB,876
+136,200,UCB,169
+136,400,UCB,353
+136,600,UCB,535
+136,800,UCB,714
+136,1000,UCB,898
+137,200,UCB,173
+137,400,UCB,358
+137,600,UCB,538
+137,800,UCB,714
+137,1000,UCB,892
+138,200,UCB,181
+138,400,UCB,354
+138,600,UCB,526
+138,800,UCB,702
+138,1000,UCB,887
+139,200,UCB,173
+139,400,UCB,355
+139,600,UCB,528
+139,800,UCB,704
+139,1000,UCB,877
+140,200,UCB,163
+140,400,UCB,341
+140,600,UCB,518
+140,800,UCB,701
+140,1000,UCB,881
+141,200,UCB,168
+141,400,UCB,350
+141,600,UCB,527
+141,800,UCB,699
+141,1000,UCB,883
+142,200,UCB,171
+142,400,UCB,356
+142,600,UCB,535
+142,800,UCB,713
+142,1000,UCB,898
+143,200,UCB,176
+143,400,UCB,346
+143,600,UCB,521
+143,800,UCB,698
+143,1000,UCB,879
+144,200,UCB,162
+144,400,UCB,332
+144,600,UCB,506
+144,800,UCB,685
+144,1000,UCB,859
+145,200,UCB,169
+145,400,UCB,353
+145,600,UCB,533
+145,800,UCB,715
+145,1000,UCB,893
+146,200,UCB,166
+146,400,UCB,340
+146,600,UCB,520
+146,800,UCB,700
+146,1000,UCB,882
+147,200,UCB,173
+147,400,UCB,350
+147,600,UCB,532
+147,800,UCB,710
+147,1000,UCB,890
+148,200,UCB,177
+148,400,UCB,353
+148,600,UCB,530
+148,800,UCB,716
+148,1000,UCB,892
+149,200,UCB,167
+149,400,UCB,346
+149,600,UCB,531
+149,800,UCB,709
+149,1000,UCB,892
+150,200,UCB,179
+150,400,UCB,348
+150,600,UCB,523
+150,800,UCB,701
+150,1000,UCB,875
+151,200,UCB,169
+151,400,UCB,351
+151,600,UCB,536
+151,800,UCB,720
+151,1000,UCB,896
+152,200,UCB,174
+152,400,UCB,357
+152,600,UCB,534
+152,800,UCB,713
+152,1000,UCB,894
+153,200,UCB,173
+153,400,UCB,345
+153,600,UCB,522
+153,800,UCB,705
+153,1000,UCB,889
+154,200,UCB,182
+154,400,UCB,362
+154,600,UCB,536
+154,800,UCB,719
+154,1000,UCB,888
+155,200,UCB,174
+155,400,UCB,349
+155,600,UCB,527
+155,800,UCB,713
+155,1000,UCB,892
+156,200,UCB,173
+156,400,UCB,342
+156,600,UCB,523
+156,800,UCB,705
+156,1000,UCB,891
+157,200,UCB,173
+157,400,UCB,341
+157,600,UCB,516
+157,800,UCB,691
+157,1000,UCB,874
+158,200,UCB,170
+158,400,UCB,349
+158,600,UCB,523
+158,800,UCB,699
+158,1000,UCB,876
+159,200,UCB,170
+159,400,UCB,350
+159,600,UCB,525
+159,800,UCB,704
+159,1000,UCB,890
+160,200,UCB,175
+160,400,UCB,353
+160,600,UCB,532
+160,800,UCB,709
+160,1000,UCB,896
+161,200,UCB,178
+161,400,UCB,362
+161,600,UCB,543
+161,800,UCB,719
+161,1000,UCB,897
+162,200,UCB,171
+162,400,UCB,349
+162,600,UCB,525
+162,800,UCB,696
+162,1000,UCB,869
+163,200,UCB,176
+163,400,UCB,349
+163,600,UCB,525
+163,800,UCB,706
+163,1000,UCB,888
+164,200,UCB,174
+164,400,UCB,357
+164,600,UCB,534
+164,800,UCB,710
+164,1000,UCB,892
+165,200,UCB,165
+165,400,UCB,343
+165,600,UCB,527
+165,800,UCB,700
+165,1000,UCB,882
+166,200,UCB,170
+166,400,UCB,346
+166,600,UCB,528
+166,800,UCB,705
+166,1000,UCB,877
+167,200,UCB,170
+167,400,UCB,354
+167,600,UCB,534
+167,800,UCB,710
+167,1000,UCB,889
+168,200,UCB,171
+168,400,UCB,344
+168,600,UCB,525
+168,800,UCB,704
+168,1000,UCB,885
+169,200,UCB,180
+169,400,UCB,358
+169,600,UCB,541
+169,800,UCB,722
+169,1000,UCB,889
+170,200,UCB,177
+170,400,UCB,358
+170,600,UCB,533
+170,800,UCB,713
+170,1000,UCB,895
+171,200,UCB,172
+171,400,UCB,355
+171,600,UCB,535
+171,800,UCB,720
+171,1000,UCB,900
+172,200,UCB,168
+172,400,UCB,343
+172,600,UCB,515
+172,800,UCB,695
+172,1000,UCB,874
+173,200,UCB,173
+173,400,UCB,345
+173,600,UCB,521
+173,800,UCB,705
+173,1000,UCB,882
+174,200,UCB,172
+174,400,UCB,348
+174,600,UCB,528
+174,800,UCB,710
+174,1000,UCB,888
+175,200,UCB,173
+175,400,UCB,354
+175,600,UCB,531
+175,800,UCB,712
+175,1000,UCB,893
+176,200,UCB,172
+176,400,UCB,346
+176,600,UCB,524
+176,800,UCB,704
+176,1000,UCB,887
+177,200,UCB,175
+177,400,UCB,360
+177,600,UCB,532
+177,800,UCB,712
+177,1000,UCB,887
+178,200,UCB,174
+178,400,UCB,353
+178,600,UCB,535
+178,800,UCB,705
+178,1000,UCB,881
+179,200,UCB,171
+179,400,UCB,347
+179,600,UCB,530
+179,800,UCB,707
+179,1000,UCB,887
+180,200,UCB,175
+180,400,UCB,348
+180,600,UCB,528
+180,800,UCB,698
+180,1000,UCB,872
+181,200,UCB,174
+181,400,UCB,361
+181,600,UCB,540
+181,800,UCB,720
+181,1000,UCB,892
+182,200,UCB,173
+182,400,UCB,356
+182,600,UCB,536
+182,800,UCB,717
+182,1000,UCB,894
+183,200,UCB,174
+183,400,UCB,347
+183,600,UCB,526
+183,800,UCB,700
+183,1000,UCB,871
+184,200,UCB,174
+184,400,UCB,348
+184,600,UCB,528
+184,800,UCB,706
+184,1000,UCB,878
+185,200,UCB,180
+185,400,UCB,360
+185,600,UCB,539
+185,800,UCB,716
+185,1000,UCB,899
+186,200,UCB,173
+186,400,UCB,353
+186,600,UCB,531
+186,800,UCB,711
+186,1000,UCB,898
+187,200,UCB,172
+187,400,UCB,354
+187,600,UCB,536
+187,800,UCB,715
+187,1000,UCB,890
+188,200,UCB,181
+188,400,UCB,357
+188,600,UCB,539
+188,800,UCB,719
+188,1000,UCB,901
+189,200,UCB,168
+189,400,UCB,350
+189,600,UCB,530
+189,800,UCB,712
+189,1000,UCB,899
+190,200,UCB,174
+190,400,UCB,353
+190,600,UCB,528
+190,800,UCB,715
+190,1000,UCB,902
+191,200,UCB,179
+191,400,UCB,360
+191,600,UCB,544
+191,800,UCB,717
+191,1000,UCB,892
+192,200,UCB,170
+192,400,UCB,347
+192,600,UCB,531
+192,800,UCB,711
+192,1000,UCB,897
+193,200,UCB,165
+193,400,UCB,344
+193,600,UCB,526
+193,800,UCB,706
+193,1000,UCB,888
+194,200,UCB,176
+194,400,UCB,349
+194,600,UCB,528
+194,800,UCB,712
+194,1000,UCB,896
+195,200,UCB,184
+195,400,UCB,365
+195,600,UCB,544
+195,800,UCB,732
+195,1000,UCB,915
+196,200,UCB,177
+196,400,UCB,351
+196,600,UCB,530
+196,800,UCB,714
+196,1000,UCB,891
+197,200,UCB,169
+197,400,UCB,347
+197,600,UCB,529
+197,800,UCB,704
+197,1000,UCB,886
+198,200,UCB,174
+198,400,UCB,348
+198,600,UCB,530
+198,800,UCB,709
+198,1000,UCB,884
+199,200,UCB,173
+199,400,UCB,346
+199,600,UCB,534
+199,800,UCB,712
+199,1000,UCB,889
+200,200,UCB,166
+200,400,UCB,343
+200,600,UCB,518
+200,800,UCB,701
+200,1000,UCB,876
+201,200,Thompson Sampling,170
+201,400,Thompson Sampling,353
+201,600,Thompson Sampling,526
+201,800,Thompson Sampling,709
+201,1000,Thompson Sampling,885
+202,200,Thompson Sampling,180
+202,400,Thompson Sampling,360
+202,600,Thompson Sampling,537
+202,800,Thompson Sampling,720
+202,1000,Thompson Sampling,908
+203,200,Thompson Sampling,175
+203,400,Thompson Sampling,352
+203,600,Thompson Sampling,538
+203,800,Thompson Sampling,725
+203,1000,Thompson Sampling,903
+204,200,Thompson Sampling,180
+204,400,Thompson Sampling,362
+204,600,Thompson Sampling,535
+204,800,Thompson Sampling,717
+204,1000,Thompson Sampling,894
+205,200,Thompson Sampling,182
+205,400,Thompson Sampling,357
+205,600,Thompson Sampling,534
+205,800,Thompson Sampling,716
+205,1000,Thompson Sampling,896
+206,200,Thompson Sampling,177
+206,400,Thompson Sampling,359
+206,600,Thompson Sampling,539
+206,800,Thompson Sampling,725
+206,1000,Thompson Sampling,914
+207,200,Thompson Sampling,178
+207,400,Thompson Sampling,357
+207,600,Thompson Sampling,533
+207,800,Thompson Sampling,715
+207,1000,Thompson Sampling,897
+208,200,Thompson Sampling,182
+208,400,Thompson Sampling,363
+208,600,Thompson Sampling,537
+208,800,Thompson Sampling,719
+208,1000,Thompson Sampling,894
+209,200,Thompson Sampling,182
+209,400,Thompson Sampling,364
+209,600,Thompson Sampling,538
+209,800,Thompson Sampling,721
+209,1000,Thompson Sampling,902
+210,200,Thompson Sampling,184
+210,400,Thompson Sampling,361
+210,600,Thompson Sampling,538
+210,800,Thompson Sampling,712
+210,1000,Thompson Sampling,891
+211,200,Thompson Sampling,183
+211,400,Thompson Sampling,365
+211,600,Thompson Sampling,545
+211,800,Thompson Sampling,727
+211,1000,Thompson Sampling,904
+212,200,Thompson Sampling,173
+212,400,Thompson Sampling,346
+212,600,Thompson Sampling,531
+212,800,Thompson Sampling,709
+212,1000,Thompson Sampling,890
+213,200,Thompson Sampling,176
+213,400,Thompson Sampling,356
+213,600,Thompson Sampling,542
+213,800,Thompson Sampling,722
+213,1000,Thompson Sampling,901
+214,200,Thompson Sampling,166
+214,400,Thompson Sampling,349
+214,600,Thompson Sampling,529
+214,800,Thompson Sampling,702
+214,1000,Thompson Sampling,877
+215,200,Thompson Sampling,176
+215,400,Thompson Sampling,357
+215,600,Thompson Sampling,533
+215,800,Thompson Sampling,720
+215,1000,Thompson Sampling,905
+216,200,Thompson Sampling,187
+216,400,Thompson Sampling,366
+216,600,Thompson Sampling,545
+216,800,Thompson Sampling,731
+216,1000,Thompson Sampling,914
+217,200,Thompson Sampling,173
+217,400,Thompson Sampling,354
+217,600,Thompson Sampling,531
+217,800,Thompson Sampling,710
+217,1000,Thompson Sampling,893
+218,200,Thompson Sampling,181
+218,400,Thompson Sampling,359
+218,600,Thompson Sampling,535
+218,800,Thompson Sampling,712
+218,1000,Thompson Sampling,892
+219,200,Thompson Sampling,171
+219,400,Thompson Sampling,349
+219,600,Thompson Sampling,526
+219,800,Thompson Sampling,705
+219,1000,Thompson Sampling,886
+220,200,Thompson Sampling,180
+220,400,Thompson Sampling,359
+220,600,Thompson Sampling,545
+220,800,Thompson Sampling,728
+220,1000,Thompson Sampling,909
+221,200,Thompson Sampling,173
+221,400,Thompson Sampling,352
+221,600,Thompson Sampling,531
+221,800,Thompson Sampling,708
+221,1000,Thompson Sampling,883
+222,200,Thompson Sampling,180
+222,400,Thompson Sampling,361
+222,600,Thompson Sampling,540
+222,800,Thompson Sampling,720
+222,1000,Thompson Sampling,901
+223,200,Thompson Sampling,177
+223,400,Thompson Sampling,358
+223,600,Thompson Sampling,536
+223,800,Thompson Sampling,722
+223,1000,Thompson Sampling,910
+224,200,Thompson Sampling,170
+224,400,Thompson Sampling,351
+224,600,Thompson Sampling,527
+224,800,Thompson Sampling,697
+224,1000,Thompson Sampling,875
+225,200,Thompson Sampling,180
+225,400,Thompson Sampling,358
+225,600,Thompson Sampling,543
+225,800,Thompson Sampling,726
+225,1000,Thompson Sampling,910
+226,200,Thompson Sampling,174
+226,400,Thompson Sampling,346
+226,600,Thompson Sampling,530
+226,800,Thompson Sampling,707
+226,1000,Thompson Sampling,890
+227,200,Thompson Sampling,180
+227,400,Thompson Sampling,356
+227,600,Thompson Sampling,533
+227,800,Thompson Sampling,706
+227,1000,Thompson Sampling,884
+228,200,Thompson Sampling,180
+228,400,Thompson Sampling,353
+228,600,Thompson Sampling,522
+228,800,Thompson Sampling,705
+228,1000,Thompson Sampling,884
+229,200,Thompson Sampling,180
+229,400,Thompson Sampling,355
+229,600,Thompson Sampling,532
+229,800,Thompson Sampling,713
+229,1000,Thompson Sampling,894
+230,200,Thompson Sampling,182
+230,400,Thompson Sampling,360
+230,600,Thompson Sampling,546
+230,800,Thompson Sampling,723
+230,1000,Thompson Sampling,902
+231,200,Thompson Sampling,174
+231,400,Thompson Sampling,353
+231,600,Thompson Sampling,530
+231,800,Thompson Sampling,710
+231,1000,Thompson Sampling,889
+232,200,Thompson Sampling,181
+232,400,Thompson Sampling,361
+232,600,Thompson Sampling,541
+232,800,Thompson Sampling,718
+232,1000,Thompson Sampling,900
+233,200,Thompson Sampling,180
+233,400,Thompson Sampling,364
+233,600,Thompson Sampling,542
+233,800,Thompson Sampling,725
+233,1000,Thompson Sampling,899
+234,200,Thompson Sampling,177
+234,400,Thompson Sampling,358
+234,600,Thompson Sampling,542
+234,800,Thompson Sampling,727
+234,1000,Thompson Sampling,912
+235,200,Thompson Sampling,171
+235,400,Thompson Sampling,347
+235,600,Thompson Sampling,522
+235,800,Thompson Sampling,705
+235,1000,Thompson Sampling,889
+236,200,Thompson Sampling,177
+236,400,Thompson Sampling,362
+236,600,Thompson Sampling,546
+236,800,Thompson Sampling,725
+236,1000,Thompson Sampling,909
+237,200,Thompson Sampling,181
+237,400,Thompson Sampling,367
+237,600,Thompson Sampling,549
+237,800,Thompson Sampling,725
+237,1000,Thompson Sampling,904
+238,200,Thompson Sampling,187
+238,400,Thompson Sampling,362
+238,600,Thompson Sampling,535
+238,800,Thompson Sampling,712
+238,1000,Thompson Sampling,898
+239,200,Thompson Sampling,181
+239,400,Thompson Sampling,365
+239,600,Thompson Sampling,539
+239,800,Thompson Sampling,716
+239,1000,Thompson Sampling,890
+240,200,Thompson Sampling,170
+240,400,Thompson Sampling,349
+240,600,Thompson Sampling,527
+240,800,Thompson Sampling,711
+240,1000,Thompson Sampling,892
+241,200,Thompson Sampling,175
+241,400,Thompson Sampling,360
+241,600,Thompson Sampling,537
+241,800,Thompson Sampling,710
+241,1000,Thompson Sampling,894
+242,200,Thompson Sampling,178
+242,400,Thompson Sampling,364
+242,600,Thompson Sampling,544
+242,800,Thompson Sampling,723
+242,1000,Thompson Sampling,908
+243,200,Thompson Sampling,179
+243,400,Thompson Sampling,352
+243,600,Thompson Sampling,528
+243,800,Thompson Sampling,706
+243,1000,Thompson Sampling,888
+244,200,Thompson Sampling,166
+244,400,Thompson Sampling,339
+244,600,Thompson Sampling,514
+244,800,Thompson Sampling,694
+244,1000,Thompson Sampling,868
+245,200,Thompson Sampling,174
+245,400,Thompson Sampling,360
+245,600,Thompson Sampling,540
+245,800,Thompson Sampling,723
+245,1000,Thompson Sampling,902
+246,200,Thompson Sampling,172
+246,400,Thompson Sampling,348
+246,600,Thompson Sampling,529
+246,800,Thompson Sampling,709
+246,1000,Thompson Sampling,892
+247,200,Thompson Sampling,177
+247,400,Thompson Sampling,356
+247,600,Thompson Sampling,539
+247,800,Thompson Sampling,717
+247,1000,Thompson Sampling,898
+248,200,Thompson Sampling,181
+248,400,Thompson Sampling,360
+248,600,Thompson Sampling,539
+248,800,Thompson Sampling,726
+248,1000,Thompson Sampling,903
+249,200,Thompson Sampling,173
+249,400,Thompson Sampling,354
+249,600,Thompson Sampling,540
+249,800,Thompson Sampling,719
+249,1000,Thompson Sampling,903
+250,200,Thompson Sampling,185
+250,400,Thompson Sampling,357
+250,600,Thompson Sampling,534
+250,800,Thompson Sampling,712
+250,1000,Thompson Sampling,886
+251,200,Thompson Sampling,172
+251,400,Thompson Sampling,354
+251,600,Thompson Sampling,540
+251,800,Thompson Sampling,724
+251,1000,Thompson Sampling,901
+252,200,Thompson Sampling,180
+252,400,Thompson Sampling,365
+252,600,Thompson Sampling,543
+252,800,Thompson Sampling,723
+252,1000,Thompson Sampling,905
+253,200,Thompson Sampling,180
+253,400,Thompson Sampling,354
+253,600,Thompson Sampling,531
+253,800,Thompson Sampling,714
+253,1000,Thompson Sampling,898
+254,200,Thompson Sampling,187
+254,400,Thompson Sampling,369
+254,600,Thompson Sampling,545
+254,800,Thompson Sampling,728
+254,1000,Thompson Sampling,898
+255,200,Thompson Sampling,182
+255,400,Thompson Sampling,360
+255,600,Thompson Sampling,539
+255,800,Thompson Sampling,726
+255,1000,Thompson Sampling,906
+256,200,Thompson Sampling,179
+256,400,Thompson Sampling,350
+256,600,Thompson Sampling,532
+256,800,Thompson Sampling,715
+256,1000,Thompson Sampling,901
+257,200,Thompson Sampling,181
+257,400,Thompson Sampling,351
+257,600,Thompson Sampling,526
+257,800,Thompson Sampling,702
+257,1000,Thompson Sampling,886
+258,200,Thompson Sampling,176
+258,400,Thompson Sampling,357
+258,600,Thompson Sampling,532
+258,800,Thompson Sampling,709
+258,1000,Thompson Sampling,887
+259,200,Thompson Sampling,174
+259,400,Thompson Sampling,357
+259,600,Thompson Sampling,533
+259,800,Thompson Sampling,713
+259,1000,Thompson Sampling,900
+260,200,Thompson Sampling,179
+260,400,Thompson Sampling,358
+260,600,Thompson Sampling,539
+260,800,Thompson Sampling,717
+260,1000,Thompson Sampling,904
+261,200,Thompson Sampling,183
+261,400,Thompson Sampling,369
+261,600,Thompson Sampling,552
+261,800,Thompson Sampling,728
+261,1000,Thompson Sampling,907
+262,200,Thompson Sampling,176
+262,400,Thompson Sampling,355
+262,600,Thompson Sampling,533
+262,800,Thompson Sampling,706
+262,1000,Thompson Sampling,880
+263,200,Thompson Sampling,182
+263,400,Thompson Sampling,359
+263,600,Thompson Sampling,536
+263,800,Thompson Sampling,717
+263,1000,Thompson Sampling,899
+264,200,Thompson Sampling,179
+264,400,Thompson Sampling,364
+264,600,Thompson Sampling,541
+264,800,Thompson Sampling,718
+264,1000,Thompson Sampling,901
+265,200,Thompson Sampling,172
+265,400,Thompson Sampling,351
+265,600,Thompson Sampling,536
+265,800,Thompson Sampling,710
+265,1000,Thompson Sampling,893
+266,200,Thompson Sampling,178
+266,400,Thompson Sampling,356
+266,600,Thompson Sampling,539
+266,800,Thompson Sampling,717
+266,1000,Thompson Sampling,890
+267,200,Thompson Sampling,174
+267,400,Thompson Sampling,360
+267,600,Thompson Sampling,541
+267,800,Thompson Sampling,719
+267,1000,Thompson Sampling,899
+268,200,Thompson Sampling,178
+268,400,Thompson Sampling,354
+268,600,Thompson Sampling,536
+268,800,Thompson Sampling,716
+268,1000,Thompson Sampling,898
+269,200,Thompson Sampling,186
+269,400,Thompson Sampling,365
+269,600,Thompson Sampling,549
+269,800,Thompson Sampling,731
+269,1000,Thompson Sampling,900
+270,200,Thompson Sampling,184
+270,400,Thompson Sampling,367
+270,600,Thompson Sampling,544
+270,800,Thompson Sampling,725
+270,1000,Thompson Sampling,908
+271,200,Thompson Sampling,178
+271,400,Thompson Sampling,363
+271,600,Thompson Sampling,544
+271,800,Thompson Sampling,731
+271,1000,Thompson Sampling,912
+272,200,Thompson Sampling,173
+272,400,Thompson Sampling,351
+272,600,Thompson Sampling,523
+272,800,Thompson Sampling,704
+272,1000,Thompson Sampling,884
+273,200,Thompson Sampling,181
+273,400,Thompson Sampling,355
+273,600,Thompson Sampling,533
+273,800,Thompson Sampling,718
+273,1000,Thompson Sampling,895
+274,200,Thompson Sampling,179
+274,400,Thompson Sampling,356
+274,600,Thompson Sampling,537
+274,800,Thompson Sampling,719
+274,1000,Thompson Sampling,898
+275,200,Thompson Sampling,179
+275,400,Thompson Sampling,362
+275,600,Thompson Sampling,540
+275,800,Thompson Sampling,722
+275,1000,Thompson Sampling,904
+276,200,Thompson Sampling,179
+276,400,Thompson Sampling,357
+276,600,Thompson Sampling,537
+276,800,Thompson Sampling,718
+276,1000,Thompson Sampling,900
+277,200,Thompson Sampling,183
+277,400,Thompson Sampling,370
+277,600,Thompson Sampling,544
+277,800,Thompson Sampling,726
+277,1000,Thompson Sampling,902
+278,200,Thompson Sampling,181
+278,400,Thompson Sampling,362
+278,600,Thompson Sampling,544
+278,800,Thompson Sampling,715
+278,1000,Thompson Sampling,892
+279,200,Thompson Sampling,177
+279,400,Thompson Sampling,355
+279,600,Thompson Sampling,540
+279,800,Thompson Sampling,718
+279,1000,Thompson Sampling,899
+280,200,Thompson Sampling,182
+280,400,Thompson Sampling,358
+280,600,Thompson Sampling,539
+280,800,Thompson Sampling,709
+280,1000,Thompson Sampling,884
+281,200,Thompson Sampling,181
+281,400,Thompson Sampling,370
+281,600,Thompson Sampling,550
+281,800,Thompson Sampling,730
+281,1000,Thompson Sampling,903
+282,200,Thompson Sampling,178
+282,400,Thompson Sampling,363
+282,600,Thompson Sampling,544
+282,800,Thompson Sampling,726
+282,1000,Thompson Sampling,904
+283,200,Thompson Sampling,179
+283,400,Thompson Sampling,354
+283,600,Thompson Sampling,533
+283,800,Thompson Sampling,708
+283,1000,Thompson Sampling,880
+284,200,Thompson Sampling,180
+284,400,Thompson Sampling,355
+284,600,Thompson Sampling,536
+284,800,Thompson Sampling,716
+284,1000,Thompson Sampling,888
+285,200,Thompson Sampling,181
+285,400,Thompson Sampling,362
+285,600,Thompson Sampling,543
+285,800,Thompson Sampling,721
+285,1000,Thompson Sampling,905
+286,200,Thompson Sampling,180
+286,400,Thompson Sampling,361
+286,600,Thompson Sampling,540
+286,800,Thompson Sampling,721
+286,1000,Thompson Sampling,908
+287,200,Thompson Sampling,177
+287,400,Thompson Sampling,361
+287,600,Thompson Sampling,545
+287,800,Thompson Sampling,725
+287,1000,Thompson Sampling,901
+288,200,Thompson Sampling,187
+288,400,Thompson Sampling,365
+288,600,Thompson Sampling,548
+288,800,Thompson Sampling,729
+288,1000,Thompson Sampling,910
+289,200,Thompson Sampling,174
+289,400,Thompson Sampling,357
+289,600,Thompson Sampling,538
+289,800,Thompson Sampling,721
+289,1000,Thompson Sampling,908
+290,200,Thompson Sampling,182
+290,400,Thompson Sampling,364
+290,600,Thompson Sampling,540
+290,800,Thompson Sampling,727
+290,1000,Thompson Sampling,915
+291,200,Thompson Sampling,182
+291,400,Thompson Sampling,365
+291,600,Thompson Sampling,550
+291,800,Thompson Sampling,724
+291,1000,Thompson Sampling,900
+292,200,Thompson Sampling,176
+292,400,Thompson Sampling,355
+292,600,Thompson Sampling,541
+292,800,Thompson Sampling,722
+292,1000,Thompson Sampling,908
+293,200,Thompson Sampling,170
+293,400,Thompson Sampling,353
+293,600,Thompson Sampling,536
+293,800,Thompson Sampling,716
+293,1000,Thompson Sampling,898
+294,200,Thompson Sampling,182
+294,400,Thompson Sampling,357
+294,600,Thompson Sampling,537
+294,800,Thompson Sampling,721
+294,1000,Thompson Sampling,905
+295,200,Thompson Sampling,191
+295,400,Thompson Sampling,373
+295,600,Thompson Sampling,554
+295,800,Thompson Sampling,742
+295,1000,Thompson Sampling,926
+296,200,Thompson Sampling,180
+296,400,Thompson Sampling,357
+296,600,Thompson Sampling,538
+296,800,Thompson Sampling,723
+296,1000,Thompson Sampling,901
+297,200,Thompson Sampling,175
+297,400,Thompson Sampling,354
+297,600,Thompson Sampling,538
+297,800,Thompson Sampling,714
+297,1000,Thompson Sampling,897
+298,200,Thompson Sampling,180
+298,400,Thompson Sampling,357
+298,600,Thompson Sampling,540
+298,800,Thompson Sampling,720
+298,1000,Thompson Sampling,896
+299,200,Thompson Sampling,180
+299,400,Thompson Sampling,356
+299,600,Thompson Sampling,546
+299,800,Thompson Sampling,725
+299,1000,Thompson Sampling,903
+300,200,Thompson Sampling,171
+300,400,Thompson Sampling,350
+300,600,Thompson Sampling,527
+300,800,Thompson Sampling,711
+300,1000,Thompson Sampling,887
